@@ -1,7 +1,7 @@
 final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "7",
-    "iso2_cc": "RU",
+    "iso2_cc": "AB",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
