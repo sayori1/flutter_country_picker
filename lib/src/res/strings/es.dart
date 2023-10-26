@@ -1,4 +1,5 @@
 Map<String, String> es = {
+  "AB": "Abkhazia",
   "AF": "Afganistán",
   "AX": "Islas Aland",
   "AL": "Albania",

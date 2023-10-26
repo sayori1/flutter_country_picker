@@ -1,5 +1,18 @@
 final List<Map<String, dynamic>> countryCodes = [
   {
+    "e164_cc": "7",
+    "iso2_cc": "RU",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 1,
+    "name": "Abkhazia",
+    "example": "840123456",
+    "display_name": "Abkhazia (RU) [+7]",
+    "full_example_with_plus_sign": "+7840123456",
+    "display_name_no_e164_cc": "Abkhazia (RU)",
+    "e164_key": "7-RU-0"
+  },
+  {
     "e164_cc": "93",
     "iso2_cc": "AF",
     "e164_sc": 0,
